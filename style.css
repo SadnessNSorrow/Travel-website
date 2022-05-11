@@ -18,8 +18,6 @@
     box-shadow: none;
 }
 
-<<<<<<< HEAD
-=======
 .carousel-autoplay-img {
     height: 60vh;
     width: 100vw;
@@ -31,7 +29,7 @@
     justify-content: center;
     gap: 200px;
 }
-/*About me*/
+/*==================================================About==============================================================*/
 .about_me_text {
     color: rgb(255, 255, 255);
     background-image: url(images/ocean.webp);
@@ -40,5 +38,5 @@
     background-size: cover;
     height: 100vh;
   }
->>>>>>> d44af73f3995f45ab35fbdc2984a2e6db1869e7f
+
 
