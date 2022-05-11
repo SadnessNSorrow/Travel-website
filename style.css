@@ -1,10 +1,13 @@
-/*Home*/
+/*==================================================Home==============================================================*/
+/*Header text color*/
 .headerTxt {
     color: rgb(34,139,34);
 }
+/*Header background color*/
 .headerClr {
     background-color: #E2E2E2;
 }
+/*First carousel with autoplay====Start*/
 .form-control-borderless {
     border: none;
 }
@@ -15,4 +18,27 @@
     box-shadow: none;
 }
 
+<<<<<<< HEAD
+=======
+.carousel-autoplay-img {
+    height: 60vh;
+    width: 100vw;
+}
+/*First carousel with autoplay====End*/
+/*Buttons with a link to forums*/
+.forums-links {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+/*About me*/
+.about_me_text {
+    color: rgb(255, 255, 255);
+    background-image: url(images/ocean.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+>>>>>>> d44af73f3995f45ab35fbdc2984a2e6db1869e7f
 
