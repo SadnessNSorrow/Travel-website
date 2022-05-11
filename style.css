@@ -5,6 +5,12 @@
 .headerClr {
     background-color: #E2E2E2;
 }
-navbarNav {
-    color: rgb(34,139,34);
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
 }
