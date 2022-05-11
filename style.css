@@ -18,6 +18,8 @@
     box-shadow: none;
 }
 
+<<<<<<< HEAD
+=======
 .carousel-autoplay-img {
     height: 60vh;
     width: 100vw;
@@ -38,4 +40,5 @@
     background-size: cover;
     height: 100vh;
   }
+>>>>>>> d44af73f3995f45ab35fbdc2984a2e6db1869e7f
 
