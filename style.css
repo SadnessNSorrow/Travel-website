@@ -2,9 +2,11 @@
 .headerTxt {
     color: rgb(34,139,34);
 }
+
 .headerClr {
     background-color: #E2E2E2;
 }
+
 .form-control-borderless {
     border: none;
 }
@@ -13,4 +15,9 @@
     border: none;
     outline: none;
     box-shadow: none;
+}
+
+.carousel-autoplay-img {
+    height: 60vh;
+    width: 100vw;
 }
