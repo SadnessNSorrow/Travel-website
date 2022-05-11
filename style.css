@@ -14,3 +14,13 @@
     outline: none;
     box-shadow: none;
 }
+
+/*About me*/
+.about_me_text {
+    color: rgb(255, 255, 255);
+    background-image: url(images/ocean.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
