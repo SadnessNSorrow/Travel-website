@@ -38,3 +38,11 @@
     background-size: cover;
     height: 100vh;
   }
+/*==================================================Profile==============================================================*/
+.flex-profile {
+    display:flex;
+}
+.flex-profile-buttons {
+    display:flex;
+    gap: 10px;
+}
